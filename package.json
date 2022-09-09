@@ -18,5 +18,8 @@
   "homepage": "https://github.com/palminski/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^29.0.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
